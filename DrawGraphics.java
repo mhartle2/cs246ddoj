@@ -4,6 +4,7 @@ import java.awt.event.*;
 import java.awt.geom.*;
 import javax.swing.JFrame;
 
+
 public class DrawGraphics {    
     public static void main(String[] args) {
         second s = new second();
